@@ -1,0 +1,6 @@
+@PriceTracking_HostAddress = http://localhost:5027
+
+GET {{PriceTracking_HostAddress}}/PriceTracking/
+Accept: application/json
+
+###
